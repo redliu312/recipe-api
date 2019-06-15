@@ -2,6 +2,7 @@ version: "3"
 
 services:
   app: 
+    image: recipes:0.0.0
     build:
       context: .
     ports:
