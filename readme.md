@@ -1,5 +1,6 @@
 # objective
-
+all the source code and dockerfile is from Udemy course
+[**Build a backend rest api with python & django-advanced**](https://www.udemy.com/django-python-advanced/)
 
 - to be comfortable with django, django rest
 - dokerized dev environment
