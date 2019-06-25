@@ -27,3 +27,5 @@ create an application naming core
 
 - docker-compose run app sh -c "python manage.py makemigrations" 
 make migrations
+
+- 
