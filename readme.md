@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.org/redliu312/recipe-api.svg?branch=master)](https://travis-ci.org/redliu312/recipe-api)
+
+
 # objective
 all the source code and dockerfile is from Udemy course
 [**Build a backend rest api with python & django-advanced**](https://www.udemy.com/django-python-advanced/)
